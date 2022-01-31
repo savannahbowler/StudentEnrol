@@ -1,0 +1,6 @@
+#Mon, 31 Jan 2022 09:31:49 +0000
+
+info.app.version=0.1
+info.app.name=enrolSystem
+grails.env=development
+info.app.grailsVersion=5.1.2
